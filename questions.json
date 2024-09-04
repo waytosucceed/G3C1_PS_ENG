@@ -1,0 +1,381 @@
+{
+  "heading": "Noun",
+  "topics": [
+    {
+      "heading": "Noun",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Is the word in bold a noun?<br> The <b><u>girl</u></b> likes to learn.",
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "answer": 0,
+          "explanation": "In the sentence 'The girl likes to learn,' the word 'girl' is indeed a noun. A noun is a word that represents a person, place, thing, or idea. In this case, 'girl' represents a person, so it fulfills the criteria of being a noun. Additionally, it is the subject of the sentence, as it performs the action of liking to learn. Therefore, 'girl' is a noun in this context."
+        },
+        {
+          "questionNo": 2,
+          "question": "Is the word in bold a noun?<br> She lives in <b><u>Australia</u></b>.",
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "answer": 0,
+          "explanation": "In the sentence 'She lives in Australia,' the word 'Australia' is used to represent a specific place, which fulfills the criteria of a noun. Nouns are words that denote a person, place, thing, or idea. Since 'Australia' is the name of a country, it functions as a noun in this context."
+        },
+        {
+          "questionNo": 3,
+          "question": "Is the word in bold a noun?<br> This is an <b><u>exciting</u></b> book.",
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The word 'exciting' is not a noun; it is an adjective. Adjectives are words that describe or modify nouns. In the given sentence, 'exciting' describes the book, indicating that the book is full of excitement or capable of causing excitement. Therefore, 'exciting' is functioning as an adjective, not a noun."
+        },
+        {
+          "questionNo": 4,
+          "question": "Is the word in bold a noun?<br> Large <b><u>plants</u></b> grow in her backyard.",
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "answer": 0,
+          "explanation": "A noun is a word that represents a person, place, thing, or idea. In this sentence, 'plants' refers to the large vegetation growing in the backyard. It represents a thing, specifically the vegetation, which makes it a noun. So, 'plants' is a noun in this context."
+        },
+        {
+          "questionNo": 5,
+          "question": "Is the word in bold a noun?<br> Some dogs <b><u>bark</u></b> day and night.",
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "answer": 1,
+          "explanation": "In the sentence provided, 'bark' is being used as a noun. A noun is a word that represents a person, place, thing, or idea. In this case, 'bark' refers to the sound that dogs make. It's the name of an action or a thing that dogs do. So, 'bark' is functioning as a noun because it represents the action or sound produced by the dogs."
+        },
+        {
+          "questionNo": 6,
+          "question": "Select the proper noun in the given sentence.<br><b> Harry Potter attended a magic school.</b>",
+          "options": [
+            {
+              "text": "Harry Potter"
+            },
+            {
+              "text": "attended"
+            },
+            {
+              "text": "magic"
+            },
+            {
+              "text": "school"
+            }
+          ],
+          "answer": 0,
+          "explanation": "A proper noun is the specific name of a person, place, or thing, and it always begins with a capital letter. In the sentence, 'Harry Potter' is the name of a specific person, referring to the main character in the sentence."
+        },
+        {
+          "questionNo": 7,
+          "question": "Select the common noun in the given sentence.<br> <b>Mount Everest is the highest mountain peak.</b>",
+          "options": [
+            {
+              "text": "Everest, highest"
+            },
+            {
+              "text": "Highest, mountain"
+            },
+            {
+              "text": "Mountain, peak"
+            },
+            {
+              "text": "Peak, Everest"
+            }
+          ],
+          "answer": 2,
+          "explanation": "Mount Everest is a proper noun because it refers to a specific place, the tallest mountain in the world. 'Mountain' and 'peak' are common nouns because they refer to general types of geographical features."
+        },
+        {
+          "questionNo": 8,
+          "question": "Select the abstract noun in the given sentence.<br> <b>Honesty is the best policy.</b>",
+          "options": [
+            {
+              "text": "Honesty"
+            },
+            {
+              "text": "The"
+            },
+            {
+              "text": "best"
+            },
+            {
+              "text": "policy"
+            }
+          ],
+          "answer": 0,
+          "explanation": "An abstract noun refers to something that cannot be perceived by the five physical senses (sight, hearing, touch, taste, smell). It represents a concept, idea, quality, or state rather than a tangible object. In this sentence, 'honesty' represents a concept or quality, not something tangible that can be seen or touched."
+        },
+        {
+          "questionNo": 9,
+          "question": "Select the concrete noun in the given sentence.<br> <b>The dog barked loudly.</b>",
+          "options": [
+            {
+              "text": "the"
+            },
+            {
+              "text": "dog"
+            },
+            {
+              "text": "barked"
+            },
+            {
+              "text": "loudly"
+            }
+          ],
+          "answer": 1,
+          "explanation": "A concrete noun refers to something that can be perceived by the senses, such as sight, hearing, touch, taste, or smell. In this sentence, 'dog' is a concrete noun because it refers to a tangible and perceivable object, which is the animal itself."
+        },
+        {
+          "questionNo": 10,
+          "question": "Select the collective noun in the given sentence.<br> <b>The choir was singing perfectly.</b>",
+          "options": [
+            {
+              "text": "Choir"
+            },
+            {
+              "text": "Was"
+            },
+            {
+              "text": "Singing"
+            },
+            {
+              "text": "perfectly"
+            }
+          ],
+          "answer": 0,
+          "explanation": "A collective noun refers to a group of people or things as a single entity. In this sentence, 'choir' refers to a group of singers performing together."
+        },
+        {
+          "questionNo": 11,
+          "question": "Select the correct form of the given sentence.<br> <b>The river flowed gently through the valley.</b>",
+          "options": [
+            {
+              "text": "The river flowed gently through the valley."
+            },
+            {
+              "text": "The River flowed gently through the valley."
+            },
+            {
+              "text": "The river Flowed gently through the valley."
+            },
+            {
+              "text": "The river flowed Gently through the valley."
+            }
+          ],
+          "answer": 0,
+          "explanation": "Option a) correctly uses 'river' as a common noun, which refers to a natural flowing watercourse. The word 'river' is written in lowercase as it is a common noun."
+        },
+        {
+          "questionNo": 12,
+          "question": "Select the correct form of the given sentence.<br> <b>The United Nations promotes peace and cooperation among nations.</b>",
+          "options": [
+            {
+              "text": "The United Nations promotes peace and cooperation among nations."
+            },
+            {
+              "text": "The United Nations promotes Peace and cooperation among nations."
+            },
+            {
+              "text": "The United nations promotes peace and cooperation among nations."
+            },
+            {
+              "text": "The United Nations Promotes peace and cooperation among nations."
+            }
+          ],
+          "answer": 0,
+          "explanation": "Option a) correctly capitalizes 'United Nations,' which is a proper noun referring to the international organization."
+        },
+        {
+          "questionNo": 13,
+          "question": "Select the correct form of the given sentence.<br> <b>A pride of lions roamed the African savanna.</b>",
+          "options": [
+            {
+              "text": "A pride of lions roamed the African savanna."
+            },
+            {
+              "text": "A Pride of lions roamed the African savanna."
+            },
+            {
+              "text": "A pride Of lions roamed the African savanna."
+            },
+            {
+              "text": "A pride of Lions roamed the African savanna."
+            }
+          ],
+          "answer": 0,
+          "explanation": "Option a) correctly uses 'pride' as a collective noun, referring to a group of lions. Collective nouns are written in lowercase."
+        },
+        {
+          "questionNo": 14,
+          "question": "Select the correct form of the given sentence.<br> <b>Freedom is essential for human dignity and development.</b>",
+          "options": [
+            {
+              "text": "Freedom is essential for human dignity and development."
+            },
+            {
+              "text": "Freedom is Essential for human dignity and development."
+            },
+            {
+              "text": "Freedom Is essential for human dignity and development."
+            },
+            {
+              "text": "Freedom is essential for Human dignity and development."
+            }
+          ],
+          "answer": 0,
+          "explanation": "Option a) correctly uses 'freedom' as an abstract noun, representing the concept of liberty or independence."
+        },
+        {
+          "questionNo": 15,
+          "question": "Select the correct form of the given sentence.<br> <b>The mountain stood majestically against the morning sky.</b>",
+          "options": [
+            {
+              "text": "The mountain stood majestically against the morning sky."
+            },
+            {
+              "text": "The Mountain stood majestically against the morning sky."
+            },
+            {
+              "text": "The mountain Stood majestically against the morning sky."
+            },
+            {
+              "text": "The mountain stood Majestically against the morning sky."
+            }
+          ],
+          "answer": 0,
+          "explanation": "Option a) correctly uses 'mountain' as a concrete noun, referring to a natural landform. Concrete nouns like 'mountain' are written in lowercase."
+        },
+        {
+          "questionNo": 16,
+          "question": "In the zoo, a ________ escaped from its enclosure and caused a commotion.",
+          "options": [
+            {
+              "text": "Lion"
+            },
+            {
+              "text": "Bravery"
+            },
+            {
+              "text": "Pride"
+            },
+            {
+              "text": "Sunshine"
+            }
+          ],
+          "answer": 0,
+          "explanation": "In the sentence, the blank refers to a specific animal that escaped from its enclosure in the zoo. 'Lion' is a common noun representing a type of animal."
+        },
+        {
+          "questionNo": 17,
+          "question": "During the parade, a ________ of soldiers marched in perfect formation.",
+          "options": [
+            {
+              "text": "Honesty"
+            },
+            {
+              "text": "Flock"
+            },
+            {
+              "text": "troop"
+            },
+            {
+              "text": "Laughter"
+            }
+          ],
+          "answer": 2,
+          "explanation": "In the sentence, the blank denotes a group of individuals who marched in the parade. 'Troop' is a collective noun representing a group of soldiers."
+        },
+        {
+          "questionNo": 18,
+          "question": "His speech was filled with ________ and inspiration.",
+          "options": [
+            {
+              "text": "Courage"
+            },
+            {
+              "text": "Desl"
+            },
+            {
+              "text": "Trees"
+            },
+            {
+              "text": "Hope"
+            }
+          ],
+          "answer": 3,
+          "explanation": "In the sentence, the blank refers to a quality or feeling conveyed through the speech. 'Hope' is an abstract noun representing a feeling or emotion."
+        },
+        {
+          "questionNo": 19,
+          "question": "The children gathered around the ________ to hear stories.",
+          "options": [
+            {
+              "text": "Mountain"
+            },
+            {
+              "text": "River"
+            },
+            {
+              "text": "Teacher"
+            },
+            {
+              "text": "Courage"
+            }
+          ],
+          "answer": 2,
+          "explanation": "In the sentence, the blank represents a person who tells stories to the children. 'Teacher' is a common noun representing a person who teaches."
+        },
+        {
+          "questionNo": 20,
+          "question": "The child picked up a shiny ________ from the beach.",
+          "options": [
+            {
+              "text": "Happiness"
+            },
+            {
+              "text": "Seashell"
+            },
+            {
+              "text": "Honesty"
+            },
+            {
+              "text": "Berry"
+            }
+          ],
+          "answer": 1,
+          "explanation": "In the sentence, the blank denotes a tangible object found on the beach. 'Seashell' is a concrete noun representing a physical object."
+        }
+      ]
+      
+    }
+  ]
+}
